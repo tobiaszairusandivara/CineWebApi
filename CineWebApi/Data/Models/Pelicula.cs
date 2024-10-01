@@ -2,7 +2,8 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
-
+using System.Text.Json.Serialization;
+    
 namespace CineWebApi.Data.Models;
 
 public partial class Pelicula
@@ -19,5 +20,6 @@ public partial class Pelicula
 
     public int IdGenero { get; set; }
 
+    [JsonIgnore]
     public virtual Genero IdGeneroNavigation { get; set; }
 }
