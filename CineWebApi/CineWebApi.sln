@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineWebApi", "CineWebApi.csproj", "{81065EAC-FD55-49D4-A1A0-291C84304DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81065EAC-FD55-49D4-A1A0-291C84304DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81065EAC-FD55-49D4-A1A0-291C84304DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81065EAC-FD55-49D4-A1A0-291C84304DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81065EAC-FD55-49D4-A1A0-291C84304DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EF536FD-E638-4100-B7A8-372C072BE67B}
+	EndGlobalSection
+EndGlobal
